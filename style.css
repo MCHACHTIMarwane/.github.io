@@ -1,0 +1,74 @@
+
+
+
+body
+{
+    background:linear-gradient( rgba(255, 255, 255, 0.3) 100%, rgba(0, 0, 0, 9)100%),url("background.jpg");
+    border-color:black;
+}
+html
+{
+    font-size: 15px; /
+    font-family: 'Arial', sans-serif;                                                                                                                                            
+    
+}
+h1
+{
+    color:red;
+    font-size: 37px;
+    text-shadow: 3px 3px 3px #aaa;
+    text-decoration: ;
+    font-family: 'Arial', sans-serif; 
+}
+
+h2
+{
+    color: darkblue;
+    font-size: 28px;
+    text-decoration:underline;
+    padding: 3px;
+    margin: 0px;
+    font-family:'Arial',sans-serif;
+}
+
+#present
+{
+    width: 700px;
+    margin:0 auto;
+    text-align:center;
+    align-content: center; 
+    background color:black;
+        
+}
+
+#page
+{
+    width: 1100px;
+    background-color: whitesmoke;
+    margin:0 auto;
+    align-content: center;
+    border: 3px solid black;
+        
+}
+
+#texte2
+{
+    font-size: 25px;
+    padding: 3px;
+    margin: 20px;
+    font-family:'Arial',sans-serif;
+}
+
+#textepage2
+{
+    font-size: 25px;
+    margin: 20px;
+    font-family:'Arial',sans-serif;
+}
+
+#textepage3
+{
+    font-size: 25px;
+    margin: 20px;
+    font-family:'Arial',sans-serif;
+}
